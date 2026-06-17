@@ -1,13 +1,8 @@
-from datetime import datetime
-
-from database import conn, cursor
-
 from operations import *
 
 from analytics import *
 
 from charts import *
-
 
 
 while True:
